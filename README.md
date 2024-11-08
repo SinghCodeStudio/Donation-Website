@@ -29,8 +29,7 @@ To set up this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/NayePankhFoundation.git
-
+   git clone https://github.com/SinghCodeStudio/Donation-Website
 2. **Navigate to the project directory:**
    ```bash
     cd NayePankhFoundation
